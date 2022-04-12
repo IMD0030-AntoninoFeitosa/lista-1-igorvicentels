@@ -3,8 +3,8 @@
 Preencha os dados abaixo para identificar a autoria do trabalho.
 
 - Nome: *Igor Vicente Lourenço Silva*
-- Email: *igor.silva.016@ufrn.edu.br>*
-- Turma: *T03>*
+- Email: *igor.silva.016@ufrn.edu.br*
+- Turma: *T03*
 
 # Questões Finalizadas
 
