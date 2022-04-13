@@ -14,7 +14,7 @@ Preencha os dados abaixo para identificar a autoria do trabalho.
 - [x] Fibonacci
 - [x] Minmax
 - [x] Inverter
-- [] Filtragem
+- [ ] Filtragem
 - [x] Ponto em Retângulo 1
 - [x] Ponto em Retângulo 2
 
