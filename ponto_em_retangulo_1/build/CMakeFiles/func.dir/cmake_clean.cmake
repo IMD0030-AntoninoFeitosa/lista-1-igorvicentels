@@ -1,8 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/func.dir/src/function.cpp.obj"
-  "CMakeFiles/func.dir/src/function.cpp.obj.d"
-  "libfunc.a"
+  "CMakeFiles/func.dir/src/function.cpp.o"
   "libfunc.pdb"
+  "libfunc.a"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -17,8 +17,9 @@ int main(void)
 {
     // TODO: Adicione aqui a sua solução.
     int x = 0;
-    int intervalos[5] = {0, 0, 0, 0, 0};
-    while(std::cin >> std::ws >> x) {
+    const int SIZE = 5;
+    int intervalos[SIZE] = {0, 0, 0, 0, 0};
+    while(cin >> std::ws >> x) {
         if (x < 0 || x >= 100) {
             intervalos[4]++;
         } else if (x < 25) {
@@ -33,15 +34,14 @@ int main(void)
     }
     
     int total = 0;
-    for (int i = 0; i < 5; i++) {
+    for (int i = 0; i < SIZE; i++) {
         total += intervalos[i];
     }
 
-    std::cout << std::setprecision(4);
     float perc;
-    for (int i = 0; i < 5; i++) {
-        perc = 100 * ((float)intervalos[i]) / total;
-        std::cout << perc << std::endl;
+    for (int i = 0; i < SIZE; i++) {
+        perc = 100 * (static_cast<double>(intervalos[i])) / total;
+        cout << setprecision(4) << perc << endl;
     }
     return 0;
 }

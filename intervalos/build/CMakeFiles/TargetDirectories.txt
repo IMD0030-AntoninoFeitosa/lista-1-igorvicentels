@@ -1,4 +1,4 @@
-C:/Users/igorv/Documents/lp1/lista1/lista-1-igorvicentels/intervalos/build/CMakeFiles/program.dir
-C:/Users/igorv/Documents/lp1/lista1/lista-1-igorvicentels/intervalos/build/CMakeFiles/verify.dir
-C:/Users/igorv/Documents/lp1/lista1/lista-1-igorvicentels/intervalos/build/CMakeFiles/edit_cache.dir
-C:/Users/igorv/Documents/lp1/lista1/lista-1-igorvicentels/intervalos/build/CMakeFiles/rebuild_cache.dir
+/home/runner/lista-1-igorvicentels/intervalos/build/CMakeFiles/rebuild_cache.dir
+/home/runner/lista-1-igorvicentels/intervalos/build/CMakeFiles/program.dir
+/home/runner/lista-1-igorvicentels/intervalos/build/CMakeFiles/edit_cache.dir
+/home/runner/lista-1-igorvicentels/intervalos/build/CMakeFiles/verify.dir

@@ -1,15 +1,16 @@
-
-# Consider dependencies only in project.
-set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
-
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
   )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/runner/lista-1-igorvicentels/ponto_em_retangulo_2/src/function.cpp" "/home/runner/lista-1-igorvicentels/ponto_em_retangulo_2/build/CMakeFiles/program.dir/src/function.cpp.o"
+  "/home/runner/lista-1-igorvicentels/ponto_em_retangulo_2/src/main.cpp" "/home/runner/lista-1-igorvicentels/ponto_em_retangulo_2/build/CMakeFiles/program.dir/src/main.cpp.o"
+  )
+set(CMAKE_CXX_COMPILER_ID "GNU")
 
-# The set of dependency files which are needed:
-set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/igorv/Documents/lp1/lista1/lista-1-igorvicentels/ponto_em_retangulo_2/src/function.cpp" "CMakeFiles/program.dir/src/function.cpp.obj" "gcc" "CMakeFiles/program.dir/src/function.cpp.obj.d"
-  "C:/Users/igorv/Documents/lp1/lista1/lista-1-igorvicentels/ponto_em_retangulo_2/src/main.cpp" "CMakeFiles/program.dir/src/main.cpp.obj" "gcc" "CMakeFiles/program.dir/src/main.cpp.obj.d"
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
   )
 
 # Targets to which this target links.

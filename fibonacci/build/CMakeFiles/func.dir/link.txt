@@ -1,2 +1,2 @@
-C:\MinGW\bin\ar.exe qc libfunc.a CMakeFiles/func.dir/src/function.cpp.obj
-C:\MinGW\bin\ranlib.exe libfunc.a
+/usr/bin/ar qc libfunc.a  CMakeFiles/func.dir/src/function.cpp.o
+/usr/bin/ranlib libfunc.a

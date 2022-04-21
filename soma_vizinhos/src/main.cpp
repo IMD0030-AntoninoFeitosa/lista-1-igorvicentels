@@ -12,7 +12,7 @@ int main( void )
 {
     // TODO: Adicione seu código aqui. 
     int m, n;
-    while(std::cin >> std::ws >> m >> n) {
+    while(cin >> std::ws >> m >> n) {
         int sum = 0;
         if (n > 0) {
             for (int i = 0; i < n; i++) {
@@ -25,7 +25,7 @@ int main( void )
         } else {
             sum = m;
         }
-        std::cout << sum << std::endl;
+        cout << sum << endl;
     }
     return 0;
 }

@@ -2,9 +2,9 @@
 
 std::vector<unsigned int> fib_below_n( unsigned int n )
 {
-    vector<unsigned int> fib;
+    std::vector<unsigned int> fib;
     if (n == 1) {
-        return vector<unsigned int>();
+        return std::vector<unsigned int>();
     }
     fib.push_back(1);
     fib.push_back(1);
